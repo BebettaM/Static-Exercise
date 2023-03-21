@@ -1,0 +1,15 @@
+/Users/claramotondo/Desktop/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise
+/Users/claramotondo/Desktop/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise.deps.json
+/Users/claramotondo/Desktop/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise.runtimeconfig.json
+/Users/claramotondo/Desktop/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise.dll
+/Users/claramotondo/Desktop/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise.pdb
+/Users/claramotondo/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.csproj.AssemblyReference.cache
+/Users/claramotondo/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/claramotondo/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.AssemblyInfoInputs.cache
+/Users/claramotondo/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.AssemblyInfo.cs
+/Users/claramotondo/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.csproj.CoreCompileInputs.cache
+/Users/claramotondo/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.dll
+/Users/claramotondo/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/refint/StaticExercise.dll
+/Users/claramotondo/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.pdb
+/Users/claramotondo/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.genruntimeconfig.cache
+/Users/claramotondo/Desktop/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/ref/StaticExercise.dll
